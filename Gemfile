@@ -1,2 +1,3 @@
 gem "slack-notify"
-gem 'dotenv-rails'
+gem 'dotenv'
+gem 'clockwork'
